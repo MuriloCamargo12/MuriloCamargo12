@@ -9,9 +9,6 @@
     <h3>I'm 22 years old and currently studying web development. 💻🚀</h3>
     <p><a href="https://www.formacao.dev/" target="_blank">I study at Formação DEV by Cod3r</a></p>
   </div>
-
-
-  
   <div>
     <h2>🛠️ Learned Technologies</h2>
     <h3>Front-End</h3>
