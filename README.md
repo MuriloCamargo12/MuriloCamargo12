@@ -2,7 +2,6 @@
   <a href="./README.md">ENG</a> /
   <a href="./README.ptbr.md">PT-BR</a>
 </p>
-
 <div align="center">
   <div>
     <img src="./github-header-banner.png">
