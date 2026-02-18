@@ -1,6 +1,6 @@
 <p align="right">🌐 Lang: 
-  <a href="./README.md">ENG</a> /
-  <a href="./README.ptbr.md">PT-BR</a>
+  <a href="./README.md">PT-BR</a>
+  <a href="./README.en.md">ENG</a> /
 </p>
 <div align="center">
   <div>
@@ -14,6 +14,9 @@
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/MuriloCamargo12"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
     <br>
     <h3>Back-End</h3>
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
@@ -24,9 +27,6 @@
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <br><br>
     <h2>📖 Technologies I'm Going to Learn Soon</h2>
-    <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
