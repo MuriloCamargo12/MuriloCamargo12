@@ -31,6 +31,7 @@
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+    <a href="https://github.com/MuriloCamargo12"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
     <h2>📧 Contact Me</h2>
     <a href="https://www.linkedin.com/in/murilocm-undefined-7b5837248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
