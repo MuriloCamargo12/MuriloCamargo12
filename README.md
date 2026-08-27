@@ -1,14 +1,14 @@
 # 👨🏻‍💻 Murilo Camargo
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Murilo, tenho 23 anos e estudo desenvolvimento web pela [Formação DEV da Cod3r](https://www.formacao.dev/). Atualmente, estou focado em Front-End, desenvolvendo projetos pessoais para consolidar meu aprendizado, enquanto estudo Back-End em paralelo.
+Me chamo Murilo, tenho 23 anos e estudo desenvolvimento web pela [Formação DEV da Cod3r](https://www.formacao.dev/). Tenho desenvolvido projetos pessoais para consolidar meus conhecimentos e adquirir experiência prática, atuando tanto no Front-End quanto no Back-End.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,nestjs,mysql,git,github)](https://skillicons.dev)
 
 ### 📊 Estatísticas
 
