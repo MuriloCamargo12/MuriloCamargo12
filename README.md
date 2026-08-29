@@ -8,7 +8,7 @@ Me chamo Murilo, tenho 23 anos e estudo desenvolvimento web pela [Formação DEV
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,nestjs,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,jest,nodejs,express,nestjs,mysql,git,github)](https://skillicons.dev)
 
 ### 📊 Estatísticas
 
